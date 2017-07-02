@@ -1,0 +1,2 @@
+Slicing and indexing in python
+http://chris.friedline.net/2015-12-15-rutgers/lessons/python2/02-index-slice-subset.html
